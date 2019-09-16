@@ -1,5 +1,5 @@
 # HeXA_AI_Study
-UNIST HeXA AI Study때 구상했던 커리큘럼  학습 내용
+UNIST HeXA AI Study때 구상했던 커리큘럼 및 학습 내용
 
 # Syllabus
 
