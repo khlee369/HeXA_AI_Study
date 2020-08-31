@@ -59,4 +59,4 @@ UNIST HeXA AI Study때 구상했던 커리큘럼 및 학습 내용
 ## 5. Further Study
     1. Reinforcement Learning
     2. Natural Language Problems
-    3. Otters
+    3. Others
